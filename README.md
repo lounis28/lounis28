@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lounis28
-- 👀 I’m interested in Fivem Devlopper
+- 👀 I’m interested in Devlopping Fivem
 - 🌱 I’m currently learning LUA
 - 💞️ I’m looking to collaborate on ...
 - 📫 My account discord lounis#7759
